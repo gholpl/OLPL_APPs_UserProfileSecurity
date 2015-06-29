@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22013.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLPL_APPs_UserProfileSecurity", "OLPL_APPs_UserProfileSecurity\OLPL_APPs_UserProfileSecurity.csproj", "{D24EA5E5-51FB-45F7-B0F3-BE17C19CE8BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24EA5E5-51FB-45F7-B0F3-BE17C19CE8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24EA5E5-51FB-45F7-B0F3-BE17C19CE8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24EA5E5-51FB-45F7-B0F3-BE17C19CE8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24EA5E5-51FB-45F7-B0F3-BE17C19CE8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

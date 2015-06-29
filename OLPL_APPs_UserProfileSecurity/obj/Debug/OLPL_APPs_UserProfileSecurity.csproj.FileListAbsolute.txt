@@ -1,0 +1,6 @@
+\\fs1\data\tech services\projects\OLPL_APPs_UserProfileSecurity\OLPL_APPs_UserProfileSecurity\bin\Debug\OLPL_APPs_UserProfileSecurity.exe.config
+\\fs1\data\tech services\projects\OLPL_APPs_UserProfileSecurity\OLPL_APPs_UserProfileSecurity\bin\Debug\OLPL_APPs_UserProfileSecurity.exe
+\\fs1\data\tech services\projects\OLPL_APPs_UserProfileSecurity\OLPL_APPs_UserProfileSecurity\bin\Debug\OLPL_APPs_UserProfileSecurity.pdb
+\\fs1\data\tech services\projects\OLPL_APPs_UserProfileSecurity\OLPL_APPs_UserProfileSecurity\obj\Debug\OLPL_APPs_UserProfileSecurity.csprojResolveAssemblyReference.cache
+\\fs1\data\tech services\projects\OLPL_APPs_UserProfileSecurity\OLPL_APPs_UserProfileSecurity\obj\Debug\OLPL_APPs_UserProfileSecurity.exe
+\\fs1\data\tech services\projects\OLPL_APPs_UserProfileSecurity\OLPL_APPs_UserProfileSecurity\obj\Debug\OLPL_APPs_UserProfileSecurity.pdb
